@@ -1,0 +1,14 @@
+// efef
+int x = 10
+bool j = true
+// dff
+if x != 10
+{
+
+    x = 1 + 2
+}
+else
+{
+    j = false
+}
+
